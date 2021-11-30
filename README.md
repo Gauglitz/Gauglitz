@@ -11,8 +11,8 @@ Me chamo **João Vitor Rodrigues Gauglitz**, tenho 19 anos, moro em Sorocaba-SP.
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/Gauglitz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gauglitz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauglitz&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180" display="inline-block" src="https://github-readme-stats.vercel.app/api?username=Gauglitz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180" display="inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauglitz&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div align="left"br>
