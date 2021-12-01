@@ -43,9 +43,3 @@ Me chamo **João Vitor Rodrigues Gauglitz**, tenho 19 anos, moro em Sorocaba-SP.
 <br />
 
 Entre em contato pelo meu e-mail:  joaogauglitz@gmail.com
-
-
-<!---
-Gauglitz/Gauglitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
