@@ -3,7 +3,7 @@ Me chamo **João Vitor Rodrigues Gauglitz**, tenho 19 anos, moro em Sorocaba-SP.
 
 **Meus interesses pessoais:**
 
-- Estou estudando **Node.Js** na Rocketseat;
+- Estou estudando Node.Js na Rocketseat;
 - Tenho o objetivo de me tornar um desenvolvendor Fullstack;
 - Meus hobbies são músicas, estudos, jogos & séries;
 - Pronomes: Ele/Dele
