@@ -32,9 +32,7 @@ Me chamo **João Vitor Rodrigues Gauglitz**, tenho 19 anos, moro em Sorocaba-SP.
 <a href="https://github.com/Gauglitz" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="https://www.instagram.com/joaovrg/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
+
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-rodrigues-5b5553155/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
